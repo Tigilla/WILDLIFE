@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+body {
+  max-width: 1440px;
+  margin: 0 auto;
+  background-color: #CCCCCC;
+}
+
+.header {
+  margin: 0 auto;
+  height: 780px;
+  background: url(/image/Rectangle.png);
+  background-repeat: no-repeat;
+}
+
+.nav {
+  width: 1440px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  margin-top: 20px;
+  display: flex;
+  justify-content: left;
+}
+
+.path0 {
+  width: 68.2px;
+  height: 58.43px;
+  margin-left: 121px;
+}
+
+.wildlife {
+  display: flex;
+  justify-content: center;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 60px;
+  color: #F4F4F4;
+  margin-left: 15px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menum {
+  margin-right: 120px;
+  width: 480px;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li {
+  display: inline;
+}
+
+.blog {
+  width: 50px;
+  height: 60px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 60px;
+  color: #F4F4F4;
+}
+
+.Contacts {
+  width: 96px;
+  height: 60px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 60px;
+  color: #F4F4F4;
+}
+
+.signin {
+  width: 120px;
+  height: 50px;
+  background: none;
+  border: 2px solid #CD6326;
+  border-radius: 5px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 27px;
+  color: #F4F4F4;
+}
+
+.title {
+  width: 199px;
+  margin-top: 108px;
+  margin-left: 120px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  letter-spacing: 2px;
+  color: #CD6326;
+}
+
+.textheader {
+  margin-left: 120px;
+  width: 274px;
+  height: 108px;
+}
+
+.text1 {
+  margin-top: 51px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #f7f7f7;
+}
+
+.donate {
+  width: 160px;
+  height: 60px;
+  margin-top: 49px;
+  margin-left: 120px;
+  background: #CD6326;
+  border-radius: 5px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 27px;
+  text-align: center;
+  color: #F7F7F7;
+}/*# sourceMappingURL=style.css.map */
